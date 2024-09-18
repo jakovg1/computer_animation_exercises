@@ -1,4 +1,4 @@
-# computer_animation_exercises
+# Course:Computer Animation - Exercises
 Laboratory exercises for the course Computer Animation 2022/23 - completed using Unity 
 
 
